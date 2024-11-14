@@ -10,7 +10,6 @@ This project is part of the 42 School curriculum and aims to create a sorting al
 - [Features](#features)
 - [Operations](#operations)
 - [Sorting Algorithm](#sorting-algorithm)
-- [License](#license)
 
 ## Project Structure
 
